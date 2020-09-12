@@ -1,18 +1,18 @@
 /* Selektor znacznika */
-body{
+body {
     background-color: #faebd6;
 }
 
-h1{
+h1 {
     color: #ff0000;
 }
-/* Selektor klasy */
 
+/* Selektor klasy */
 .first-paragraf{
     color: #a42423;
 }   
 
 /* Kaskadowosc */
-p{
-color: #00008f;
+p {
+    color: #00008f;
 }
